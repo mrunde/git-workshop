@@ -1,6 +1,8 @@
 /**
  * A global variable which can be changed.
  * @type {number}
+ * hi
+ *
  */
 const SOME_GLOBAL_CONSTANT = 200;
 
