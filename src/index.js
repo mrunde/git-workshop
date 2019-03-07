@@ -25,7 +25,6 @@ function doSomething() {
 
     const randomNumber = calc(Math.random()) + 1;
     console.log(randomNumber);
-
     return NEVER_CHANGE_THIS_VALUE;
 }
 
