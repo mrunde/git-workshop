@@ -4,6 +4,7 @@
  */
 const SOME_GLOBAL_CONSTANT = 200;
 
+//test
 /**
  * Calculate something and return the result.
  *
