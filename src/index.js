@@ -14,6 +14,7 @@ function calc(a) {
     return a * SOME_GLOBAL_CONSTANT;
 }
 
+
 /**
  * A method that is called directly and will log a calculated number and return some value.
  * @returns {string}
