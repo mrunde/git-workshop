@@ -2,7 +2,7 @@
  * A global variable which can be changed.
  * @type {number}
  */
-const SOME_GLOBAL_CONSTANT = 20;
+var SOME_GLOBAL_CONSTANT = 20; // addition
 
 /**
  * Calculate something and return the result.
